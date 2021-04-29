@@ -9,7 +9,7 @@
 
 \toc
 
-## Live evaluation of code blocks
+## Chive evaluation of code blocks
 
 If you would like to show code as well as what the code outputs, you only need to specify where the script corresponding to the code block will be saved.
 
